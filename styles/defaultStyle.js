@@ -5,6 +5,12 @@ const defaultStyle = StyleSheet.create({
         flex: 1,
         alignItems: 'center',
         justifyContent: 'center'
+    },
+    inputText:{
+        padding:10,
+        borderBottomWidth:2,
+        borderBottomColor: 'gray',
+        width: 200
     }
 })
 
